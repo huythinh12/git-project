@@ -1,4 +1,5 @@
 // coment ở chổ này lại đi nè ???? tôi nhìn ko hiểu hàm này làm gì ???
+//Hàm này là khi scroll xuống sẽ có hiệu ứng css
 window.onscroll = function() {
   scrollFunction();
 };
